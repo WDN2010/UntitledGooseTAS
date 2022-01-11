@@ -1,5 +1,5 @@
 # Intro
-This repository contains movie archive (in [Releases section](https://github.com/WDN2010/UntitledGooseTAS/releases)) and it's contents required for Tool Assistant Speedrun of Untitled Goose Game in Any% category performed with libTAS tool.
+This repository contains movie archive (in [Releases section](https://github.com/WDN2010/UntitledGooseTAS/releases)) and its contents required for Tool Assistant Speedrun of Untitled Goose Game in Any% category performed with libTAS tool.
 It was created for fun and as a PoC that it's possible to finish the Untitled Goose Game in less than 2 minutes. First released version time is exactly 1:59. 
 - Recorded movie is available via link https://youtu.be/H8gu9nLgwOc
 - Process of first release version enconding is available via link https://youtu.be/xhrI-Fea4l0
@@ -43,4 +43,4 @@ It was created for fun and as a PoC that it's possible to finish the Untitled Go
 	- **Input -> Joystick inputs...** - Window with controller inputs. Note that buttons are performed as checkboxes, so clicking a button fast is like `Pause -> check the box -> Unpause -> Pause -> uncheck the box -> Unpause`
 - From time to time it might be a good idea to check your progress by launching full run. Behavior can be changed from launching part of game (like performing hard skip) using savestate. In case of success you can save current movie or even save it to another file with **Export Movie** option
 # Additional information
-- If you want to add any honking not required for run, it's better to make it during TAS creation in the same frame (and 5-10 frames around) with grabbing or turning might change goose position and affect following inputs. Be careful!
+- If you want to add any honking not required for run, it's better to make it during TAS creation as honking in the same frame (and 5-10 frames around) with grabbing or turning might change goose position and affect following inputs. Be careful!
