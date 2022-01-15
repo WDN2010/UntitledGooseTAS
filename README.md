@@ -1,7 +1,7 @@
 # Intro
 This repository contains movie archive (in [Releases section](https://github.com/WDN2010/UntitledGooseTAS/releases)) and its contents required for Tool Assistant Speedrun of Untitled Goose Game in Any% category performed with libTAS tool.
 It was created for fun and as a PoC that it's possible to finish the Untitled Goose Game in less than 2 minutes. First released version time is exactly 1:59. 
-- Recorded movie is available via link https://youtu.be/H8gu9nLgwOc
+- Recorded movie is available via link https://youtu.be/yMBjrlBPDHs
 - Process of first release version enconding is available via link https://youtu.be/xhrI-Fea4l0
 # Technical setup
 - Ubuntu 20.04.3 LTS (native)
